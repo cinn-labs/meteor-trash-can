@@ -1,6 +1,6 @@
 Package.describe({
   name: 'cinn:trash-can',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'Trash can for Meteor collection',
   git: 'https://github.com/cinn-labs/meteor-trash-can',
   documentation: 'README.md'
